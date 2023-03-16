@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+packagetest/__init__.py
+packagetest/testClass.py
+packagetest/utils.py
+testsetup.egg-info/PKG-INFO
+testsetup.egg-info/SOURCES.txt
+testsetup.egg-info/dependency_links.txt
+testsetup.egg-info/top_level.txt
